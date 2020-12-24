@@ -66,9 +66,11 @@ Are you running Windows or Mac OS as your main operating system, and want to giv
 ### Screenshots
 
 Wathcing Taylor Swift on Pike-OS    
-<img src="https://github.com/favicon.ico" width="500" height="500">
-//![Alt text](  https://raw.githubusercontent.com/selvadurai/Pike-OS/main/screenshots/taylorswift.jpg "Highlight login")
 
+![Alt text](  https://raw.githubusercontent.com/selvadurai/Pike-OS/main/screenshots/taylorswift.jpg "Highlight login")
+
+Xmonad Tiling Manager
+![Alt text](https://raw.githubusercontent.com/selvadurai/Pike-OS/main/screenshots/xmonad.png "Highlight login")
 
 
 
