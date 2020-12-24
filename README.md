@@ -69,10 +69,11 @@ Pike-OS Desktop
 ![Alt text](https://raw.githubusercontent.com/selvadurai/Pike-OS/main/screenshots/wallpaper.jpg "Highlight login")
 
 
-Wathcing Taylor Swift on Pike-OS    
-//![Alt text](  https://raw.githubusercontent.com/selvadurai/Pike-OS/main/screenshots/taylorswift.jpg "Highlight login")
+Watching Taylor Swift on the Brave Browser     
+![Alt text](  https://raw.githubusercontent.com/selvadurai/Pike-OS/main/screenshots/taylorswift.jpg "Highlight login")
 
-
+Xmonad Manager on Pike-OS
+![Alt text]( https://raw.githubusercontent.com/selvadurai/Pike-OS/main/screenshots/xmonad.png "Highlight login")
 
 
 
