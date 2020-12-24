@@ -14,7 +14,7 @@ Are you running Windows or Mac OS as your main operating system, and want to giv
 - Brave Browser stops sites from monitoring you and is AD free
 - Tor Browser changes your IP and region and lets you browse the internet 100% anonymous 
 -Distrotubes Xmonad Window manager, makes it easy to align multiple windows/programs
-- Do not need to install to run the operating system (Live CD)
+- Do not need to install to run the operating system
 -Virus-free don't be afraid to stream movies from those sites that have viruses. 
 - Runs on Open Source and Free Software
 - APT-GET package manager
