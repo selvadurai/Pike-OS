@@ -22,12 +22,17 @@ Are you running Windows or Mac OS as your main operating system, and want to giv
 
 **How To Install**
 
-Download Vmware or Virtualbox Links below:
+1. Download Either Vmware or Virtualbox:
 
-VMWARE:
-https://my.vmware.com/en/web/vmware/downloads/details?downloadGroup=PLAYER-1610&productId=1039&rPId=55792
+   VMWARE:
+   
+   https://my.vmware.com/en/web/vmware/downloads/details?downloadGroup=PLAYER-1610&productId=1039&rPId=55792
 
-Virtualbox:
-https://www.virtualbox.org/wiki/Downloads
+   Virtualbox:
+   
+   https://www.virtualbox.org/wiki/Downloads
+
+
+
 
 
