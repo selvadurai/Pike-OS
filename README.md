@@ -58,7 +58,7 @@ https://drive.google.com/file/d/10-cPEDMCD6OW1KIoPmB2MyliakX16eqc/view?usp=shari
      
       4GB of Memory (can run on 1GB of RAM, if 4GB is not a option) 
 
-      20GB of space 
+      20GB of space/storage 
       
      
 
