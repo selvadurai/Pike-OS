@@ -101,7 +101,7 @@ Mark Shuttleworth
 Linus Torvalds
 
 
-###Donate using Crypto Currencies
+### Donate using Crypto Currencies
 
 Bitcoin:3JynUgWwcXAjK5naqynYDQ1vA4aKnU7m5n
 
