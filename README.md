@@ -65,11 +65,8 @@ Are you running Windows or Mac OS as your main operating system, and want to giv
 
 ### Screenshots
 
-
-
-  
-    
-
+Wathcing Taylor Swift on Pike-OS    
+![Alt text](  https://raw.githubusercontent.com/selvadurai/Pike-OS/main/screenshots/taylorswift.jpg "Highlight login")
 
 
 
