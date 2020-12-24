@@ -65,7 +65,8 @@ Are you running Windows or Mac OS as your main operating system, and want to giv
 
 ### Screenshots of Pike-OS
 
-Pike-OS wallpaper
+Pike-OS Desktop
+![Alt text](https://raw.githubusercontent.com/selvadurai/Pike-OS/main/screenshots/wallpaper.jpg "Highlight login")
 
 
 Wathcing Taylor Swift on Pike-OS    
