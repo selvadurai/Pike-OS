@@ -24,20 +24,20 @@ Are you running Windows or Mac OS as your main operating system, and want to giv
 
 1. Download Either Vmware or Virtualbox:
 
-   VMWARE:
+    VMWARE:
    
-   https://my.vmware.com/en/web/vmware/downloads/details?downloadGroup=PLAYER-1610&productId=1039&rPId=55792
+    https://my.vmware.com/en/web/vmware/downloads/details?downloadGroup=PLAYER-1610&productId=1039&rPId=55792
 
-   Virtualbox:
+    Virtualbox:
    
-   https://www.virtualbox.org/wiki/Downloads
+    https://www.virtualbox.org/wiki/Downloads
    
-2. Download Pike-OS ISO file Link Below: 
+2.  Download Pike-OS ISO file Link Below: 
 
-   https://drive.google.com/file/d/10-cPEDMCD6OW1KIoPmB2MyliakX16eqc/view?usp=sharing
+    https://drive.google.com/file/d/10-cPEDMCD6OW1KIoPmB2MyliakX16eqc/view?usp=sharing
 
-
-3.  Upload to it the Virtual Box instructions below for Vmware and Virtualbox below: 
+ 
+3.   Upload to it the Virtual Box instructions below for Vmware and Virtualbox below: 
 
      Virtual Box:
      https://www.youtube.com/watch?v=VZJ6KZUc25M
@@ -56,7 +56,9 @@ Are you running Windows or Mac OS as your main operating system, and want to giv
 
 5.  If you want to install it click the install icon on the desktop, and follow the instructions  
 
-6.  **IMPORTANT** When 
+6.  **IMPORTANT** When on the login menu, select "Log Me in Automatically" it won't work if you select "Require Login" 
+
+
   
     
 
