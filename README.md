@@ -24,10 +24,9 @@ https://drive.google.com/file/d/10-cPEDMCD6OW1KIoPmB2MyliakX16eqc/view?usp=shari
 - Virus-free don't be afraid to stream movies from those sites that have viruses. 
 - Runs on Open Source and Free Software
 - APT-GET package manager
-- The list goes on
 - Lightweight Operating System
 - Fast
-
+- The list goes on
 
 ### How To Install
 
