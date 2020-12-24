@@ -58,6 +58,9 @@ Are you running Windows or Mac OS as your main operating system, and want to giv
 
 6.  **IMPORTANT** When on the login menu, select "Log Me in Automatically" it won't work if you select "Require Login" 
 
+     !![Alt text]( https://raw.githubusercontent.com/selvadurai/Pike-OS/main/screenshots/login.jpg "Optional title")
+
+
 
   
     
