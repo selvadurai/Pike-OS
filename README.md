@@ -58,7 +58,7 @@ Are you running Windows or Mac OS as your main operating system, and want to giv
 
 6.  **IMPORTANT MUST READ** When on the login menu, select "Log Me in Automatically" it **would not work** if you select "Require my password to log me in" 
      
-     <img src="https://raw.githubusercontent.com/selvadurai/Pike-OS/main/screenshots/loginHighlight.jpg" width="500" height="750">
+     <img src="https://raw.githubusercontent.com/selvadurai/Pike-OS/main/screenshots/loginHighlight.jpg" width="960" height="750">
 
 7.   After installation is complete, click reboot and you should have installed version of Pike-OS
 
