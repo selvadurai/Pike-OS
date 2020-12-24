@@ -1,5 +1,7 @@
 # **What is Pike-OS ?**
 
+<img src="https://raw.githubusercontent.com/selvadurai/Pike-OS/main/src/assets/menu.png" width="100" height="100">
+
 Are you running Windows or Mac OS as your main operating system, and want to give Linux a try without the fear of installing it on your machine? then try Pike-OS is a hobby Linux distribution designed and optimized to run in a virtual environment, built on top of Lubuntu,Ubuntu, Linux, and GNU. Pike-OS is a virtualized operating system that comes with the Brave and Tor browser, the brave browser lets you browse the internet ad-free and stops sites from monitoring your online behavior, and the Tor browser lets you browse the internet 100% anonymously by routing your IP address through 100's of Tor routers, as a result, your IP address and location is changed to another region of the world, the sites your visiting will log a different IP address and location. Besides being able to browse the internet anonymously, Pike-OS comes with the fish shell, which autocorrects your Linux commands, this is good for beginners who want to learn Linux. Also, Pike-OS easy to install and is a good environment for people who want to learn Linux commands, Python programming, and who want to experience a Unix-like environment. I hope you enjoy and explore the world of Pike-OS/GNU Linux. 
 
 ### DOWNLOAD PIKE ISO IMAGE HERE: 
