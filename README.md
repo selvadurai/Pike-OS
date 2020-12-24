@@ -3,7 +3,7 @@
 Are you running Windows or Mac OS as your main operating system, and want to give Linux a try without the fear of installing it on your machine? then try Pike-OS is a hobby Linux distribution designed and optimized to run in a virtual environment, built on top of Lubuntu,Ubuntu, Linux, and GNU. Pike-OS is a virtualized operating system that comes with the Brave and Tor browser, the brave browser lets you browse the internet ad-free and stops sites from monitoring your online behavior, and the Tor browser lets you browse the internet 100% anonymously by routing your IP address through 100's of Tor routers, as a result, your IP address and location is changed to another region of the world, the sites your visiting will log a different IP address and location. Besides being able to browse the internet anonymously, Pike-OS comes with the fish shell, which autocorrects your Linux commands, this is good for beginners who want to learn Linux. Also, Pike-OS easy to install and is a good environment for people who want to learn Linux commands, Python programming, and who want to experience a Unix-like environment. I hope you enjoy and explore the world of Pike-OS/GNU Linux. 
 
 
-**Pike-OS/GNU-Linux Features**
+### Pike-OS/GNU-Linux Features**
 
 - Easy to install
 - Good for beginners who want to explore the Unix environment
@@ -20,7 +20,7 @@ Are you running Windows or Mac OS as your main operating system, and want to giv
 - APT-GET package manager
 - The list goes on
 
-**How To Install**
+### How To Install
 
 1. Download Either Vmware or Virtualbox:
 
@@ -59,6 +59,11 @@ Are you running Windows or Mac OS as your main operating system, and want to giv
 6.  **IMPORTANT** When on the login menu, select "Log Me in Automatically" it **would not work** if you select "Require my password to log me in" 
 
      ![Alt text]( https://raw.githubusercontent.com/selvadurai/Pike-OS/main/screenshots/loginHighlight.jpg "Highlight login")
+     
+7.   After installation is complete, click reboot and you should have installed version of Pike-OS
+
+
+### Screenshots
 
 
 
