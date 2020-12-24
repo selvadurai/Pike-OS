@@ -62,6 +62,10 @@ Are you running Windows or Mac OS as your main operating system, and want to giv
 
 7.   After installation is complete, click reboot and you should have installed version of Pike-OS
 
+### DOWNLOAD PIKE ISO IMAGE HERE: 
+
+https://drive.google.com/file/d/10-cPEDMCD6OW1KIoPmB2MyliakX16eqc/view?usp=sharing
+
 
 ### Screenshots of Pike-OS
 
