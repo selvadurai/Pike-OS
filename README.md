@@ -84,21 +84,29 @@ Xmonad Manager on Pike-OS
 
 ### Thank you to our contributors for making Pike-OS possible:
 
-**Richard Stallman
+Richard Stallman
  
- https://stallman.org/
+https://stallman.org/
 
-**Mario Behling
+Mario Behling
 
 https://twitter.com/mariobehling?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
 
-**DistroTube
+DistroTube
 
 https://www.youtube.com/channel/UCVls1GmFKf6WlTraIb_IaJg
 
-**Mark Shuttleworth
+Mark Shuttleworth
 
-**Linus Torvalds
+Linus Torvalds
 
+
+###Donate using Crypto Currencies
+
+Bitcoin:3JynUgWwcXAjK5naqynYDQ1vA4aKnU7m5n
+
+Litecoin:MLdW6rP376wk39mdpS926ekDvkkDvia1VF
+
+Ethereum:0xF066aCbAF24f2c00D6AC9c3A1fC9b4b7acAAA7Ec
 
 
