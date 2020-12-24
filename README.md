@@ -65,7 +65,7 @@ https://drive.google.com/file/d/10-cPEDMCD6OW1KIoPmB2MyliakX16eqc/view?usp=shari
 
 5.  If you want to install it click the install icon on the desktop, and follow the instructions  
 
-6.  **IMPORTANT MUST READ** When on the login menu, select **"Log Me in Automatically"**. 
+6.  **IMPORTANT MUST READ** When on Who Are You on the install, select **"Log Me in Automatically"**. 
      
      **Do not** select "require my password to log me in" 
      
