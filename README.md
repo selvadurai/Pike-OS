@@ -82,4 +82,23 @@ Xmonad Manager on Pike-OS
 ![Alt text]( https://raw.githubusercontent.com/selvadurai/Pike-OS/main/screenshots/xmonad.png "Highlight login")
 
 
+### Thank you to our contributors for making Pike-OS possible:
+
+**Richard Stallman
+ 
+ https://stallman.org/
+
+**Mario Behling
+
+https://twitter.com/mariobehling?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+
+**DistroTube
+
+https://www.youtube.com/channel/UCVls1GmFKf6WlTraIb_IaJg
+
+**Mark Shuttleworth
+
+**Linus Torvalds
+
+
 
