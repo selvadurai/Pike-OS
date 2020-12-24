@@ -56,9 +56,9 @@ Are you running Windows or Mac OS as your main operating system, and want to giv
 
 5.  If you want to install it click the install icon on the desktop, and follow the instructions  
 
-6.  **IMPORTANT** When on the login menu, select "Log Me in Automatically" it won't work if you select "Require my password to log me in" 
+6.  **IMPORTANT** When on the login menu, select "Log Me in Automatically" it **would not work** if you select "Require my password to log me in" 
 
-     !![Alt text]( https://raw.githubusercontent.com/selvadurai/Pike-OS/main/screenshots/loginHighlight.jpg "Optional title")
+     ![Alt text]( https://raw.githubusercontent.com/selvadurai/Pike-OS/main/screenshots/loginHighlight.jpg "Highlight login")
 
 
 
