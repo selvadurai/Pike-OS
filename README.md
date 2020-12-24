@@ -31,6 +31,34 @@ Are you running Windows or Mac OS as your main operating system, and want to giv
    Virtualbox:
    
    https://www.virtualbox.org/wiki/Downloads
+   
+2. Download Pike-OS ISO file Link Below: 
+
+   https://drive.google.com/file/d/10-cPEDMCD6OW1KIoPmB2MyliakX16eqc/view?usp=sharing
+
+
+3.  Upload to it the Virtual Box instructions below for Vmware and Virtualbox below: 
+
+     Virtual Box:
+     https://www.youtube.com/watch?v=VZJ6KZUc25M
+     
+     Vmware: 
+     https://www.youtube.com/watch?v=7m3f-P-WWbg
+     
+     Recommend Size for Install:
+     
+      4GB of Memory (can run on 1GB of RAM, if 4GB is not a option) 
+      20GB of space 
+      
+     
+
+4.   Once you get the operating system booted up on the virtual box then you explore and play with it on live mode. NOTHING YOU DO WILL BE SAVED
+
+5.  If you want to install it click the install icon on the desktop, and follow the instructions  
+
+6.  **IMPORTANT** When 
+  
+    
 
 
 
