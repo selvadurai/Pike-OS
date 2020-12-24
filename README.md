@@ -18,13 +18,16 @@ Are you running Windows or Mac OS as your main operating system, and want to giv
 -Virus-free don't be afraid to stream movies from those sites that have viruses. 
 - Runs on Open Source and Free Software
 - APT-GET package manager
--........The list goes on
+-The list goes on
 
 **How To Install**
-Download Vmware or Virtualbox: 
 
+Download Vmware or Virtualbox Links below:
+
+VMWARE:
 https://my.vmware.com/en/web/vmware/downloads/details?downloadGroup=PLAYER-1610&productId=1039&rPId=55792
 
+Virtualbox:
 https://www.virtualbox.org/wiki/Downloads
 
 
