@@ -63,14 +63,15 @@ Are you running Windows or Mac OS as your main operating system, and want to giv
 7.   After installation is complete, click reboot and you should have installed version of Pike-OS
 
 
-### Screenshots
+### Screenshots of Pike-OS
+
+Pike-OS wallpaper
+
 
 Wathcing Taylor Swift on Pike-OS    
+//![Alt text](  https://raw.githubusercontent.com/selvadurai/Pike-OS/main/screenshots/taylorswift.jpg "Highlight login")
 
-![Alt text](  https://raw.githubusercontent.com/selvadurai/Pike-OS/main/screenshots/taylorswift.jpg "Highlight login")
 
-Xmonad Tiling Manager
-![Alt text](https://raw.githubusercontent.com/selvadurai/Pike-OS/main/screenshots/xmonad.png "Highlight login")
 
 
 
